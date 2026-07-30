@@ -7,6 +7,10 @@ rg_details = {
     name     = "spoke-rg"
     location = "South India"
   }
+    spoke_rg2 = {
+    name     = "spoke-rg2"
+    location = "South India"
+  }
   
 }
 
